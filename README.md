@@ -18,7 +18,7 @@ Hello everybody, I’m
 
 Unfortunately, the code is private at the moment,
 but here is a trailer:
-[Go to Unhollow Darkness Trailer](https://github.com/baumgae) // tbd
+[Go to Unhollow Darkness Trailer](https://youtu.be/q3s8DQ5peBk) // tbd
 <br>
 
 This university student group project is a prototype of an RPG Game made with Unity.
@@ -49,7 +49,9 @@ In this university student group project, a cloud-based service has been impleme
 The objective was, to create a web application which provides funny supporting hints, 
 by recognizing the mood due to the facial expression of the user. 
 
-<img width="839" alt="Supporting_Shellfish" src="https://user-images.githubusercontent.com/58331777/132178270-44a9a099-0a75-44ed-8642-a3fb8bee6c7c.png">
+An article describing the project has been published here: 
+
+<img width="717" alt="Screenshot 2021-09-06 at 10 20 45" src="https://user-images.githubusercontent.com/58331777/132184665-dcaebeca-bf42-463d-ba81-a5670c4e9541.png">
 
 ---
 ### The Secret of the Cloverleaf Farm - E-Learning Game for Children || 2017
