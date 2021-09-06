@@ -18,7 +18,7 @@ Hello everybody, I’m
 
 Unfortunately, the code is private at the moment,
 but here is a trailer:
-[Go to Unhollow Darkness Trailer](https://youtu.be/q3s8DQ5peBk) // tbd
+[Go to Unhollow Darkness Trailer](https://youtu.be/q3s8DQ5peBk)
 <br>
 
 This university student group project is a prototype of an RPG Game made with Unity.
