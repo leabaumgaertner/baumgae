@@ -1,5 +1,5 @@
 Hello everybody, I’m 
-<center> # Lea Baumgaertner </center>
+# Lea Baumgaertner
 
 ---
 ## Short Info
