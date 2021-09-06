@@ -1,5 +1,6 @@
 Hello everybody, I’m 
 <center> # Lea Baumgaertner </center>
+
 ---
 ## Short Info
 - I recently graduated my Bachelor in Computer Science and Media.
