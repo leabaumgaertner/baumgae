@@ -14,7 +14,7 @@ Hello everybody, I’m
 
 ## Projects 
 
-### * Unhallowed Darkness - RPG Game Prototype in Unity || 2019 *
+### Unhallowed Darkness - RPG Game Prototype in Unity || 2019 
 
 Unfortunately, the code is private at the moment,
 but here is a trailer:
@@ -28,7 +28,7 @@ As programmer, I was responsible for building levels and implementing core game 
 <img width="1268" alt="Unhallowed_Darkness" src="https://user-images.githubusercontent.com/58331777/132178219-4851227c-af57-4f84-a380-b3891b36b6ec.png">
 
 ---
-### * Terrific Tiger - Chat Messenger Web Application || 2019 *
+### Terrific Tiger - Chat Messenger Web Application || 2019 
 
 [Go to Terrific Tiger Chat - Backend Code](https://github.com/baumgae/terrific_tiger_chat_backend)
 
@@ -40,7 +40,7 @@ Furthermore, I set up the dockerfile to run the whole app at once.
 Due to copyright issues, I am able to display only the code, programmed by me. 
 
 ---
-### * Shelly the Supporting Shellfish - Cloud based AI Web Application || 2019 * 
+### Shelly the Supporting Shellfish - Cloud based AI Web Application || 2019
 
 [Go to Supporting Shellfish App](https://github.com/baumgae/supporting_shellfish)
 In this university student group project, a cloud-based service has been implemented, using IBM Visual Recognition API. 
@@ -50,7 +50,7 @@ by recognizing the mood due to the facial expression of the user.
 <img width="839" alt="Supporting_Shellfish" src="https://user-images.githubusercontent.com/58331777/132178270-44a9a099-0a75-44ed-8642-a3fb8bee6c7c.png">
 
 ---
-### * The Secret of the Cloverleaf Farm - E-Learning Game for Children || 2017 *
+### The Secret of the Cloverleaf Farm - E-Learning Game for Children || 2017
 
 [Go to "Das Geheimnis der Kleeblattfarm* Art ](https://github.com/baumgae/Kleeblatt-Farm-Art)
 In this university student group project, a protoype of an E-Learning Game has been implemented.
@@ -59,7 +59,7 @@ As the Lead Game Artist, I provided 90% of all art and animation sheets.
 <img width="919" alt="Kleeblatt_Farm" src="https://user-images.githubusercontent.com/58331777/132178300-78a72a8f-ca1e-4e24-935e-bd7ba3b9d8c6.png">
 
 ---
-### * Battleship Game || 2017 * 
+### Battleship Game || 2017
 
 [Go to Battleship Game](https://github.com/baumgae/battleship_project)
 In this university student two-person project, the popular game battleship has been implemented
