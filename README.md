@@ -49,7 +49,7 @@ In this university student group project, a cloud-based service has been impleme
 The objective was, to create a web application which provides funny supporting hints, 
 by recognizing the mood due to the facial expression of the user. 
 
-An article describing the project has been published here: 
+An article describing the project has been published here: [Go to Article about Shelly](https://www.linkedin.com/feed/update/urn:li:activity:6583291071436988416?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6583291071436988416%29)
 
 <img width="717" alt="Screenshot 2021-09-06 at 10 20 45" src="https://user-images.githubusercontent.com/58331777/132184665-dcaebeca-bf42-463d-ba81-a5670c4e9541.png">
 
