@@ -1,6 +1,5 @@
 Hello everybody, I’m 
-# Lea Baumgaertner
-
+<center> # Lea Baumgaertner </center>
 ---
 ## Short Info
 - I recently graduated my Bachelor in Computer Science and Media.
@@ -13,6 +12,10 @@ Hello everybody, I’m
 
 ---
 ### * Unhallowed Darkness - RPG Game Prototype in Unity || 2019 *
+
+Unfortunately, the code is private at the moment,
+but here is a trailer:
+[Go to Unhollow Darkness Trailer](https://github.com/baumgae) // tbd
 
 This university student group project is a prototype of an RPG Game made with Unity.
 As the Project Manager, I had to coordinate 
