@@ -19,6 +19,7 @@ Hello everybody, I’m
 Unfortunately, the code is private at the moment,
 but here is a trailer:
 [Go to Unhollow Darkness Trailer](https://github.com/baumgae) // tbd
+<br>
 
 This university student group project is a prototype of an RPG Game made with Unity.
 As the Project Manager, I had to coordinate 
@@ -30,7 +31,7 @@ As programmer, I was responsible for building levels and implementing core game 
 ---
 ### Terrific Tiger - Chat Messenger Web Application || 2019 
 
-[Go to Terrific Tiger Chat - Backend Code](https://github.com/baumgae/terrific_tiger_chat_backend)
+[Go to Terrific Tiger Chat - Backend Code](https://github.com/baumgae/terrific_tiger_chat_backend) <br>
 
 This university student two-person project is a chat application with login/user-management, 
 contactlist, video- and textcha implemented with Angular and Flask.
@@ -42,7 +43,8 @@ Due to copyright issues, I am able to display only the code, programmed by me.
 ---
 ### Shelly the Supporting Shellfish - Cloud based AI Web Application || 2019
 
-[Go to Supporting Shellfish App](https://github.com/baumgae/supporting_shellfish)
+[Go to Supporting Shellfish App](https://github.com/baumgae/supporting_shellfish) <br>
+
 In this university student group project, a cloud-based service has been implemented, using IBM Visual Recognition API. 
 The objective was, to create a web application which provides funny supporting hints, 
 by recognizing the mood due to the facial expression of the user. 
@@ -52,7 +54,7 @@ by recognizing the mood due to the facial expression of the user.
 ---
 ### The Secret of the Cloverleaf Farm - E-Learning Game for Children || 2017
 
-[Go to "Das Geheimnis der Kleeblattfarm* Art ](https://github.com/baumgae/Kleeblatt-Farm-Art)
+[Go to "Das Geheimnis der Kleeblattfarm* Art ](https://github.com/baumgae/Kleeblatt-Farm-Art) <br>
 In this university student group project, a protoype of an E-Learning Game has been implemented.
 As the Lead Game Artist, I provided 90% of all art and animation sheets.
 
@@ -61,7 +63,7 @@ As the Lead Game Artist, I provided 90% of all art and animation sheets.
 ---
 ### Battleship Game || 2017
 
-[Go to Battleship Game](https://github.com/baumgae/battleship_project)
+[Go to Battleship Game](https://github.com/baumgae/battleship_project) <br>
 In this university student two-person project, the popular game battleship has been implemented
 using Java.
 
