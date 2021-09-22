@@ -11,8 +11,22 @@ Hello everybody, I’m
 - ❤️‍🔥 I love hiking, swimming and exploring new things.
 
 ---
+## Self Study Projects
+For improving my Web Developement skills, I am continously working myself through tutorials and 
+code small and personal projects.
 
-## Projects 
+### To Do List with React JS
+[Go to My-ToDo List](https://github.com/baumgae/my-todo-list/blob/main/README.md)
+
+<img width="1280" alt="General_Screen_1" src="https://user-images.githubusercontent.com/58331777/134315163-f99866ac-819e-4144-b1a7-e72efddb098a.png">
+
+### My personal Library with Vanilla JavaScript
+[Go to My Library App](https://github.com/baumgae/libraryappjs)
+<img width="838" alt="Screenshot 2021-09-22 at 11 05 38" src="https://user-images.githubusercontent.com/58331777/134315395-93e857cc-c8b7-4fdb-a730-3d33d9a21882.png">
+
+
+---
+## Student Projects
 
 ### Unhallowed Darkness - RPG Game Prototype in Unity || 2019 
 
