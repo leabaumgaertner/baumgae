@@ -4,14 +4,13 @@ Hello everybody, I’m
 ---
 
 ## Short Info
-- I recently graduated my Bachelor in Computer Science and Media.
-- 👀 I’m interested in Web Development and Artificial Intelligence!
-- 🌱 I’m currently learning Javascript and React.
+- 👀 I'm into Web & App Development!
+- 🚀 React & React Native, JavaScript / TypeScript Developer
 - 📫 How to reach me: www.linkedin.com/in/lea-baumgaertner
 - ❤️‍🔥 I love hiking, swimming and exploring new things.
 
 ---
-## Self Study Projects
+## Small Projects
 For improving my Web Developement skills, I am continously working myself through tutorials and 
 code small and personal projects.
 
